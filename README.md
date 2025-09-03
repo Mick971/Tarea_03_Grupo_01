@@ -86,17 +86,17 @@ La distribución de clasificaciones revela que TV-MA (contenido para audiencias 
 
 
 ## Insights y Conclusiones Relevantes
-Estrategia de contenido global: Amazon Prime Video muestra una clara estrategia de localización, con fuerte inversión en contenido estadounidense e indio, reflejando sus mercados principales.
+* Estrategia de contenido global: Amazon Prime Video muestra una clara estrategia de localización, con fuerte inversión en contenido estadounidense e indio, reflejando sus mercados principales.
 
-Enfoque en contenido adulto: La predominancia de clasificaciones TV-MA sugiere que la plataforma se orienta principalmente a audiencias adultas.
+* Enfoque en contenido adulto: La predominancia de clasificaciones TV-MA sugiere que la plataforma se orienta principalmente a audiencias adultas.
 
-Crecimiento acelerado: El aumento significativo de contenido a partir de 2015 coincide con la intensificación de la competencia en streaming, indicando una respuesta competitiva al mercado.
+* Crecimiento acelerado: El aumento significativo de contenido a partir de 2015 coincide con la intensificación de la competencia en streaming, indicando una respuesta competitiva al mercado.
 
-Limitaciones de datos: La significante cantidad de datos faltantes en columnas clave como país y director limita el análisis geográfico y de autoría, sugiriendo la necesidad de mejorar los procesos de recolección de datos.
+* Limitaciones de datos: La significante cantidad de datos faltantes en columnas clave como país y director limita el análisis geográfico y de autoría, sugiriendo la necesidad de mejorar los procesos de recolección de datos.
 
-Oportunidad de expansión: La fuerte concentración en pocos países sugiere oportunidades de crecimiento mediante la inversión en contenido de regiones menos representadas.
+* Oportunidad de expansión: La fuerte concentración en pocos países sugiere oportunidades de crecimiento mediante la inversión en contenido de regiones menos representadas.
 
-Este análisis proporciona insights valiosos para la toma de decisiones estratégicas sobre adquisición y producción de contenido, así como para el desarrollo de campañas de marketing dirigidas a segmentos específicos de audiencia.
+* Este análisis proporciona insights valiosos para la toma de decisiones estratégicas sobre adquisición y producción de contenido, así como para el desarrollo de campañas de marketing dirigidas a segmentos específicos de audiencia.
 
 
 

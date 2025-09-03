@@ -13,5 +13,5 @@ El dataset permite a investigadores, analistas de datos y estudiantes:
 - **Evaluar la diversidad del contenido**, tanto en términos de origen geográfico como de variedad temática.
 - **Apoyar el desarrollo de modelos de recomendación**, clasificación o predicción, gracias a sus atributos estructurados.
 
-En definitiva, este dataset tiene un fuerte valor educativo y analítico, ya que permite aplicar técnicas de limpieza, visualización, análisis estadístico y aprendizaje automático, en un contexto real y actual como lo es el contenido digital bajo demanda.
+El dataset fue seleccionado debido al gran valor educativo y analítico, ya que permite aplicar técnicas de limpieza, visualización, análisis estadístico y aprendizaje automático, en un contexto real y actual como lo es el contenido digital bajo demanda.
 

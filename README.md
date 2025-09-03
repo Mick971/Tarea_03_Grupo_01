@@ -80,7 +80,7 @@ Se restringió el rango de años para análisis entre el mínimo y máximo detec
 ![alt text](image.png)
 
 
-La distribución de clasificaciones revela que TV-MA (contenido para audiencias maduras) es, con gran diferencia, la categoría predominante en Amazon Prime Video, seguida de TV-14 y TV-PG. Esta clara concentración indica que la plataforma tiene una estrategia de contenido dirigida principalmente a un público adulto y adolescente, posicionándose como un servicio de entretenimiento para mayores de 14 años. La casi inexistencia de contenido categorizado como infantil o familiar (como TV-Y o TV-G) sugiere una oportunidad de crecimiento en ese segmento de mercado, que actualmente parece estar desatendido en su catálogo. Esta estrategia podría estar alineada con la intención de diferenciarse de otros servicios de streaming que tienen una oferta más familiar, aunque también limita su base potencial de suscriptores.
+* La distribución de clasificaciones revela que TV-MA (contenido para audiencias maduras) es, con gran diferencia, la categoría predominante en Amazon Prime Video, seguida de TV-14 y TV-PG. Esta clara concentración indica que la plataforma tiene una estrategia de contenido dirigida principalmente a un público adulto y adolescente, posicionándose como un servicio de entretenimiento para mayores de 14 años. La casi inexistencia de contenido categorizado como infantil o familiar (como TV-Y o TV-G) sugiere una oportunidad de crecimiento en ese segmento de mercado, que actualmente parece estar desatendido en su catálogo. Esta estrategia podría estar alineada con la intención de diferenciarse de otros servicios de streaming que tienen una oferta más familiar, aunque también limita su base potencial de suscriptores.
 
 ![alt text](image-1.png)
 

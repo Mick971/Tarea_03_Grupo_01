@@ -15,3 +15,51 @@ El dataset permite a investigadores, analistas de datos y estudiantes:
 
 En definitiva, este dataset tiene un fuerte valor educativo y analítico, ya que permite aplicar técnicas de limpieza, visualización, análisis estadístico y aprendizaje automático, en un contexto real y actual como lo es el contenido digital bajo demanda.
 
+* Revisión inicial de los datos
+Se cargó el dataset amazon_prime_titles.csv.
+
+Se verificaron las columnas, tipos de datos y valores nulos.
+
+* Eliminación de duplicados
+
+Algunos títulos aparecían repetidos en el dataset.
+
+Se eliminaron con drop_duplicates() para evitar que influyeran en el análisis.
+
+* Manejo de valores nulos
+
+Columnas como director, cast y country tenían valores faltantes.
+
+Se completaron con "Desconocido" en caso de países o se dejaron vacíos para no perder registros importantes.
+
+* Normalización de texto
+
+Se aplicó str.strip() y str.title() a columnas como title, director y country para mantener un formato uniforme.
+
+Ejemplo: "united states" → "United States".
+
+* Conversión de fechas
+
+La columna date_added fue convertida a formato de fecha (datetime) para poder agrupar y filtrar por año de incorporación.
+
+* Transformación de la duración
+
+La columna duration contenía tanto minutos (para películas) como temporadas (para series).
+
+Se dividió en dos campos nuevos:
+
+duration_minutes → para películas.
+
+duration_seasons → para series.
+
+* División de géneros
+
+La columna listed_in contenía varios géneros separados por comas.
+
+Se separaron en una lista con str.split(",") para identificar los géneros más frecuentes.
+
+* Filtro por años de lanzamiento
+
+Se validó que release_year sea un número entero.
+
+Se restringió el rango de años para análisis entre el mínimo y máximo detectado.

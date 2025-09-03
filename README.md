@@ -65,3 +65,27 @@ Se separaron en una lista con str.split(",") para identificar los géneros más 
 Se validó que release_year sea un número entero.
 
 Se restringió el rango de años para análisis entre el mínimo y máximo detectado.
+
+Principales Hallazgos del Análisis
+Distribución de contenido: El dataset contiene 9,668 títulos iniciales, con una distribución equilibrada entre películas y series.
+
+Procedencia geográfica: Estados Unidos e India son los principales productores de contenido, representando la mayoría del catálogo.
+
+Tendencia temporal: Se observa un crecimiento significativo en la producción de contenido a partir de 2015, con un pico notable en años recientes.
+
+Clasificaciones por edad: La clasificación TV-MA (contenido para audiencias maduras) es la más común en la plataforma.
+
+Datos faltantes: Se identificaron valores nulos significativos en columnas como director (2,083), cast (1,233), país (8,996) y fecha de adición (9,513), lo que sugiere limitaciones en la completitud del dataset.
+
+Insights y Conclusiones Relevantes
+Estrategia de contenido global: Amazon Prime Video muestra una clara estrategia de localización, con fuerte inversión en contenido estadounidense e indio, reflejando sus mercados principales.
+
+Enfoque en contenido adulto: La predominancia de clasificaciones TV-MA sugiere que la plataforma se orienta principalmente a audiencias adultas.
+
+Crecimiento acelerado: El aumento significativo de contenido a partir de 2015 coincide con la intensificación de la competencia en streaming, indicando una respuesta competitiva al mercado.
+
+Limitaciones de datos: La significante cantidad de datos faltantes en columnas clave como país y director limita el análisis geográfico y de autoría, sugiriendo la necesidad de mejorar los procesos de recolección de datos.
+
+Oportunidad de expansión: La fuerte concentración en pocos países sugiere oportunidades de crecimiento mediante la inversión en contenido de regiones menos representadas.
+
+Este análisis proporciona insights valiosos para la toma de decisiones estratégicas sobre adquisición y producción de contenido, así como para el desarrollo de campañas de marketing dirigidas a segmentos específicos de audiencia.

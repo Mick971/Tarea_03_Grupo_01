@@ -66,7 +66,7 @@ Se validó que release_year sea un número entero.
 
 Se restringió el rango de años para análisis entre el mínimo y máximo detectado.
 
-Principales Hallazgos del Análisis
+## Principales Hallazgos del Análisis
 Distribución de contenido: El dataset contiene 9,668 títulos iniciales, con una distribución equilibrada entre películas y series.
 
 Procedencia geográfica: Estados Unidos e India son los principales productores de contenido, representando la mayoría del catálogo.
@@ -77,7 +77,7 @@ Clasificaciones por edad: La clasificación TV-MA (contenido para audiencias mad
 
 Datos faltantes: Se identificaron valores nulos significativos en columnas como director (2,083), cast (1,233), país (8,996) y fecha de adición (9,513), lo que sugiere limitaciones en la completitud del dataset.
 
-Insights y Conclusiones Relevantes
+## Insights y Conclusiones Relevantes
 Estrategia de contenido global: Amazon Prime Video muestra una clara estrategia de localización, con fuerte inversión en contenido estadounidense e indio, reflejando sus mercados principales.
 
 Enfoque en contenido adulto: La predominancia de clasificaciones TV-MA sugiere que la plataforma se orienta principalmente a audiencias adultas.

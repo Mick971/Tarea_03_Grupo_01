@@ -76,7 +76,9 @@ Tendencia temporal: Se observa un crecimiento significativo en la producción de
 Clasificaciones por edad: La clasificación TV-MA (contenido para audiencias maduras) es la más común en la plataforma.
 
 Datos faltantes: Se identificaron valores nulos significativos en columnas como director (2,083), cast (1,233), país (8,996) y fecha de adición (9,513), lo que sugiere limitaciones en la completitud del dataset.
-![alt text](image.png)
+![alt text](/assets/image-1.png)
+![alt text](image-1.png)
+
 
 ## Insights y Conclusiones Relevantes
 Estrategia de contenido global: Amazon Prime Video muestra una clara estrategia de localización, con fuerte inversión en contenido estadounidense e indio, reflejando sus mercados principales.

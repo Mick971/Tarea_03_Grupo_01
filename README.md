@@ -80,6 +80,11 @@ Datos faltantes: Se identificaron valores nulos significativos en columnas como 
 ![alt text](image.png)
 
 
+La distribución de clasificaciones revela que TV-MA (contenido para audiencias maduras) es, con gran diferencia, la categoría predominante en Amazon Prime Video, seguida de TV-14 y TV-PG. Esta clara concentración indica que la plataforma tiene una estrategia de contenido dirigida principalmente a un público adulto y adolescente, posicionándose como un servicio de entretenimiento para mayores de 14 años. La casi inexistencia de contenido categorizado como infantil o familiar (como TV-Y o TV-G) sugiere una oportunidad de crecimiento en ese segmento de mercado, que actualmente parece estar desatendido en su catálogo. Esta estrategia podría estar alineada con la intención de diferenciarse de otros servicios de streaming que tienen una oferta más familiar, aunque también limita su base potencial de suscriptores.
+
+![alt text](image-1.png)
+
+
 ## Insights y Conclusiones Relevantes
 Estrategia de contenido global: Amazon Prime Video muestra una clara estrategia de localización, con fuerte inversión en contenido estadounidense e indio, reflejando sus mercados principales.
 
@@ -92,5 +97,8 @@ Limitaciones de datos: La significante cantidad de datos faltantes en columnas c
 Oportunidad de expansión: La fuerte concentración en pocos países sugiere oportunidades de crecimiento mediante la inversión en contenido de regiones menos representadas.
 
 Este análisis proporciona insights valiosos para la toma de decisiones estratégicas sobre adquisición y producción de contenido, así como para el desarrollo de campañas de marketing dirigidas a segmentos específicos de audiencia.
+
+
+
 
 
